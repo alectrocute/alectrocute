@@ -2,3 +2,4 @@
 - 💡 Most inspired by MediaRecorder & WebRTC (sometimes in Electron)
 - 📫 Find me online as [@alectrocute](https://github.com/alectrocute) ([instagram](https://instagram.com/alectrocute), [codepen](https://codepen.io/alectrocute))
 - 😄 Pronouns: He, him
+- Contact: [my-gh-username]@gmail.com
